@@ -1,0 +1,3 @@
+NombreEssaisMaximum: 10 
+NombreScores: 20 
+NombreCaracteresNomJoueur: 20
