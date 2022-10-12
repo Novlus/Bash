@@ -1,3 +1,6 @@
+
+Fait par CREMON Damien
+
 différente commande a utiliser sur linux
 make run pour lancer le jeu
 make scores pour voir l'intégralité des scores.
